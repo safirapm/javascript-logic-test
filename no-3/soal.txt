@@ -1,0 +1,7 @@
+3. Take the longest 3 words and add a hash tag
+
+	Input 				      			Expected output
+
+	"How the Avocado Became the Fruit of the Global Trade" ➞ ["#avocado", "#became", "#global"]
+	"Those programmer is skillful"                         ➞ ["#programmer", "#skillful", "#Those"]
+	"You have another luxury car"                          ➞ ["#another", "#luxury", "#have"]

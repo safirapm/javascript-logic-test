@@ -1,0 +1,9 @@
+1. Check if Ari and Danang is nearby
+
+	Input 				      Expected output
+
+	['Susi', 'Ari', 'Danang', 'Jono']   ➞ true
+	['Okta', 'Ari', 'Beben', 'Danang']  ➞ false
+	['Ari', 'Danang', 'Okta', 'Beben']  ➞ true
+	['Danang', 'Ari', 'Beben', 'Okta']  ➞ true
+	['Okta', 'Beben', 'Danang', 'Ari']  ➞ true

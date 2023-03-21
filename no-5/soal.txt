@@ -1,0 +1,11 @@
+5. Check Palindrome(words are read the same when reversed)
+
+	Input 	    Expected output
+
+	"racecar" ➞ true
+	"level"   ➞ true
+	"radar"   ➞ true
+	"civic"   ➞ true
+	"clever"  ➞ false
+	"clear"   ➞ false
+	"bmw"     ➞ false

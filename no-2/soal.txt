@@ -1,0 +1,9 @@
+2. Sort the alphabet ascending
+
+	Input 		Expected output
+
+	"lamborgini" ➞ "abgiilmnor"
+	"toyota"     ➞ "aootty"
+	"porche"     ➞ "cehopr"
+	"bmw"        ➞ "bmw"
+	"mazda"      ➞ "aadmz"
